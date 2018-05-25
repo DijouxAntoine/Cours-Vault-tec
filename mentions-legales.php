@@ -74,3 +74,4 @@ include('php/header.php');
 <?php
 // Ajoute du header
 include('php/footer.php');
+?>

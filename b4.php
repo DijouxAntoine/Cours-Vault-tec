@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+ 
+<?php
 // Ajoute du header
 include('php/header.php');
 ?>
@@ -22,17 +26,14 @@ include('php/header.php');
         <div id="contenu">
 
             <!-- TITRE DE LA PAGE -->
-            <h1>LA PAGE B4</h1>
+            <h1>Hauteur & largeur</h1>
 
 
             <section>
 
-                <!-- PRESENTATION -->
-                <p class="presentation">
-                Cette page B4 ne sert qu'a répondre à la tache "F177 : Affichage information de la largeur de la page article B4 (copie écran)"
-            </p>
-
-            <p>Ci-dessous, l'extrait du script javascript qui m'a permit d'avoir la largeur et la hauteur de la fenetre</p>
+            <!-- PRESENTATION -->
+                <p class="presentation"> Ici, un petit "tricks" sympath permettant d'afficher la hauteur et la largeur d'une page avec JS </p>
+                <p>Ci-dessous, l'extrait du script javascript vous permettant d'afficher la largeur et la hauteur de la fenêtre</p>
 
 
 <textarea style="height: 230px;">
@@ -60,3 +61,4 @@ document.write("</div>");
 <?php
 // Ajoute du header
 include('php/footer.php');
+?>

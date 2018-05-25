@@ -81,15 +81,9 @@
            <li class="menu-contact"><a href="contact.php">Contact</a></li>
             <li class="menu-contact"></li> 
       
-          <!-- Bouton de connexion -->
-           <li class="li_bouton_conexxion">
-            <form class="form-bouton_connexion">
-            <input class="bouton" onclick="javascript:document.location.href='connexion.php' " value="Se connecter" type="button">
-            </form>
-            </li>
-            
-            <li class="li_bouton_conexxion">
-            <form class="form-bouton_connexion">
+          <!--Bouton d'inscription-->            
+            <li class="li_bouton_inscription">
+            <form class="form-bouton_inscription">
             <input class="bouton" onclick="javascript:document.location.href='inscription.php' " value="S'inscrire" type="button">
             </form>
             </li>

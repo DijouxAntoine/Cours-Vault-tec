@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+
+<?php
 // Ajoute du header
 include('php/header.php');
 ?>
@@ -18,7 +22,7 @@ include('php/header.php');
 
                 }
                 /*Et on execute*/
-                laDateDeMiseAjour('16/01/2018');
+                laDateDeMiseAjour('22/05/2018');
             </script>
 
 
@@ -95,3 +99,4 @@ httpServer.listen(8080);
 <?php
 // Ajoute du header
 include('php/footer.php');
+?>

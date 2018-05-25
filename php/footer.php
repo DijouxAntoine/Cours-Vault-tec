@@ -4,7 +4,8 @@
 	<div id="footer-niveau2">
 
 		<!-- F131 : Ajouter un pied de page (copie écran)  -->
-		<a title="Accéder aux metions légales" id="link-mentions-legales" href="mentions-legales.php">Mentions légales</a> @2017 - 2018 / Developpeur : Antoine DIJOUX - Gilles HEITAA
+		<a title="Accéder aux metions légales" id="link-mentions-legales" href="mentions-legales.php">Mentions légales</a> 2017 - <?php 
+  echo date('Y'); ?> / Developpeur : Antoine DIJOUX
 
 	</div><!-- id="footer-niveau2" -->
 </footer>
@@ -18,6 +19,5 @@
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHmrXsiSPpeAEytbBmJah3s5WbTKCmuNo &callback=initMap"
         async defer></script>
 <script type="text/javascript" src="js/afficher_cacher_div.js"></script>
-
 </body>
 </html>

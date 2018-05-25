@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+ 
+<?php
 // Ajoute du header
 include('php/header.php');
 ?>
@@ -27,7 +31,7 @@ include('php/header.php');
 
         <!-- PRESENTATION -->
         <article>
-            <span>Bonjour et bienvenu &#128516;&#128519;&#128526;&#128523;</span>
+            <span>Bonjour et bienvenue sur notre site de cours en ligne Vault-tec &#128516;&#128519;&#128526;&#128523;</span>
             Notre site est destiné aux développeurs web et aux personnes qui souhaitent apprendre un langage de programmation. Il propose un ensemble de tutoriels, d'astuces sur l'utilisation de nouvelle technologie (exemple: nodejs, canvas ...). L'avantage de notre site est qu'il propose une description écrite et visuel via des images fixes ou animés (gif). Le chargement de la page se fait donc plus rapidement que les sites qui propose des tutoriels vidéos. Nous créons ce projet car les technologies évolues rapidement. L'objectif est donc de mettre à disposition aux grands publics, un site de référence.
         </article>
 
@@ -92,7 +96,9 @@ include('php/header.php');
 
         </section>
     </div><!-- contenu -->
-    
+
+
 <?php
 // Ajoute du header
 include('php/footer.php');
+?>

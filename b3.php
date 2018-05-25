@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+ 
+<?php
 // Ajoute du header
 include('php/header.php');
 ?>
@@ -33,3 +37,4 @@ include('php/header.php');
 <?php
 // Ajoute du header
 include('php/footer.php');
+?>

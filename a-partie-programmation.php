@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+
+<?php
 // Ajoute du header
 require 'php/header.php';
 ?>
@@ -28,7 +32,7 @@ require 'php/header.php';
                 <h2>Tuto 1 : Création d'un formulaire en javascript</h2>
 
                 <!-- LIEN VERS PAGE -->
-                <a href="A1.php">=====>Voir le tutoriel<=====</a>
+                <a href="A1.php">=====>Voir le tutoriel=====</a>
 
                 <!-- DESCRIPTION -->
                 <p>Dans ce premier tutoriel, nous allons tout simplement créer un formulaire directement en javascript. L'avantage de cette technique est de pouvoir introduire à n'importe quelle moment un element html en fonction d'un évènement du DOM. Par exemple, on pourrait introduire un formulaire que si mon curseur survole une zone de la page</p>
@@ -41,7 +45,7 @@ require 'php/header.php';
                 <h2>Tuto 2 : Créer votre premier serveur web avec NodeJS</h2>
 
                 <!-- LIEN VERS PAGE -->
-                <a href="A2.php">=====>Voir le tutoriel<=====</a>
+                <a href="A2.php">=====>Voir le tutoriel=====</a>
 
                 <!-- DESCRIPTION -->
                 <p>NodeJS est une plateforme construite sur le moteur JavaScript V8 de Chrome qui permet de développer des applications en utilisant du JavaScript. Il se distingue des autres plateformes gràce à une approche non bloquante permettant d'effectuer des entrées/sorties (I/O) de manière asynchrone. </p>
@@ -53,5 +57,6 @@ require 'php/header.php';
     </div><!-- id="contenu" -->
     
 <?php
-// Ajoute du header
+// Ajoute du footer
 include('php/footer.php');
+?>

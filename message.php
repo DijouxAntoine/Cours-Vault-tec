@@ -83,3 +83,4 @@ $receptionHeure = $_POST['receptionHeure'];
 }
 
 include('php/footer.php');
+?>

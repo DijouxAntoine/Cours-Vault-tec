@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02189e6d-4e88-4a11-aa86-825b66a68684" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/Avancement_projet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/Copie de Page_responsive.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/Page_responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/accueil (avec tracé).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/accueil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/accueil.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/accueil_responsive (avec tracé).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/accueil_responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/accueil_responsive.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/mentions-legales (avec tracé).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/mentions-legales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/mentions-legales.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/mentions-legales_responsive.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/page(avec tracé).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F108-wifreframes/page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-partie-programmation.php" beforeDir="false" afterPath="$PROJECT_DIR$/a-partie-programmation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1.php" beforeDir="false" afterPath="$PROJECT_DIR$/a1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a2.php" beforeDir="false" afterPath="$PROJECT_DIR$/a2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/accueil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b-partie-designe.php" beforeDir="false" afterPath="$PROJECT_DIR$/b-partie-designe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b3.php" beforeDir="false" afterPath="$PROJECT_DIR$/b3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b4.php" beforeDir="false" afterPath="$PROJECT_DIR$/b4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/etoile.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1@0.5x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1@0.75x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1@1.5x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan de travail 1@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header/Plan-de-travail-_transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/html5-1841458.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-2488093.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo/Fichier 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pages/B02/dawn-2944961_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pages/B02/glass-2472134_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pages/B02/jellyfish-698521_1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/search-engine-optimization-2613847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/Adobe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/Adobe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/Graphique.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/JS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/Reseau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/css.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/css.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/design.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/design.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/html.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/html.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/liens_images.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/mysql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/programmation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/programmation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/seo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentions-legales.php" beforeDir="false" afterPath="$PROJECT_DIR$/mentions-legales.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message.php" beforeDir="false" afterPath="$PROJECT_DIR$/message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/title.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/title.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpmembre/desinscrire.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpmembre/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpmembre/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpmembre/membre.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpmembre/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpmembre/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F130-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F130-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F132-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F133-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F133-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F133-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F133-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F133.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F136-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F136-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F141-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F141-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F143-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F147.oxps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F149-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F150-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F150-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F164.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F175 et F176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F177.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F178.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F179.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F194-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint/F194-2.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Articles/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mini_projet_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini_projet_2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mini_projet_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini_projet_2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Articles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02189e6d-4e88-4a11-aa86-825b66a68684" name="Default" comment="" />
+      <created>1527022999575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527022999575</updated>
+      <workItem from="1527023005728" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="353000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13762811" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Articles/redaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Articles/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

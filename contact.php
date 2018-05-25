@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+ 
 <?php include('php/header.php'); ?>
 
 <div id="container-form">
@@ -10,7 +14,7 @@
 			
 			<h3 class='titre-h3'>Formulaire de contact</h3>
 
-			<form onsubmit="return confirmation(this)" method='POST' action='message.php' autocomplete='off'>
+			<form onsubmit="return confirmation(this)" method='GET' action='message.php' autocomplete='off'>
 
 				<div class='tag-input'>
 					
@@ -31,7 +35,7 @@
 				<!-- MESSAGE d'erreur en cas de besoin -->
 				<div class='error-confirm-telephone'></div>
 
-				<input class='form-text confirm-telephone' type='text' name='telephone' placeholder='Téléphone (Champ obligatoire)' onchange="sinumeriqueTel(this)" require>
+				<input class='form-text confirm-telephone' type='text' name='telephone' placeholder='Téléphone (Champ facultatif)' onchange="sinumeriqueTel(this)" require>
 
 				</div><!-- class='tag-input' -->
 				
@@ -115,3 +119,4 @@
 
 
 <?php include('php/footer.php');
+?>

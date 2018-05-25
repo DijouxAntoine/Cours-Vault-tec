@@ -4,7 +4,7 @@
 	/* Création de la fonction*/
 	function laDateDeMiseAjour(ladate){
 
-		document.getElementById("dateMajPageA2").innerHTML = "La date de mise à jour : " + ladate;
+		document.getElementById("dateMajPageA2").innerHTML = "La date de mise à jour : " +ladate;
 
 	}
 	/*Et on execute*/

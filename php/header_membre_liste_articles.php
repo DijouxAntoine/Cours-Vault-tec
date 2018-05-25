@@ -84,13 +84,14 @@
           <!-- Bouton de connexion -->
            <li class="li_bouton_conexxion">
             <form class="form-bouton_connexion">
-            <input class="bouton" onclick="javascript:document.location.href='connexion.php' " value="Se connecter" type="button">
+            <input class="bouton" onclick="javascript:document.location.href='redaction.php' " value="Rédaction articles" type="button">
             </form>
             </li>
             
-            <li class="li_bouton_conexxion">
+            <!--Bouton de deconnection-->
+               <li class="li_bouton_conexxion">
             <form class="form-bouton_connexion">
-            <input class="bouton" onclick="javascript:document.location.href='inscription.php' " value="S'inscrire" type="button">
+            <input class="bouton" onclick="javascript:document.location.href='deconnexion.php' " value="Déconnection" type="button">
             </form>
             </li>
                     

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://antdjxxcx1.freeheberg.org/www/S2_1/sitemap.xml

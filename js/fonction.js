@@ -16,7 +16,7 @@
 		var d = "<div>La largeur est de : " + largeur + "</div>";
 		var e = "</div>"; 
 
-		document.getElementById("dimension").innerHTML = a + b + c + d + e;
+		document.getElementById("dimension").innerHTML = a+b+c+d+e;
 
 	}
 	/*Et on execute*/

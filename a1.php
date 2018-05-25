@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+ 
+<?php
 // Ajoute du header
 include('php/header.php');
 ?>
@@ -167,3 +171,4 @@ document.getElementById("zone").onclick = function (){
 <?php
 // Ajoute du header
 include('php/footer.php');
+?>
